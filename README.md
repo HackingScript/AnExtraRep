@@ -1,4 +1,4 @@
-# AnExtraRep - Health Report Submission fORM
+# AnExtraRep - Health Report Submission Form
 This repository contains the source code for the project.
 
 ## Technologies Used
