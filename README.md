@@ -1,6 +1,5 @@
-# AnExtraRep - Health Report Submission System
-
-AnExtraRep is a web application designed to allow users to submit their health reports. This repository contains the source code for the project.
+# AnExtraRep - Health Report Submission fORM
+This repository contains the source code for the project.
 
 ## Technologies Used
 
